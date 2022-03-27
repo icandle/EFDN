@@ -48,7 +48,7 @@ class Cell(nn.Module):
     def __init__(self, n_feats=48, dynamic = True, deploy = False, L= None, with_13=False):
         super(Cell, self).__init__()
         
-        self.conv1 = conv(n_feats)#nn.Conv2d(n_feats, n_feats, 1, 1, 0) #ECB(n_feats,n_feats,with_idt=True,deploy=deploy)ECB(n_feats,n_feats,with_idt=True,deploy=deploy,depth_multiplier=2.0, with_13=with_13, gv=False) #nn.Conv2d(n_feats, n_feats, 1, 1, 0) #ECB(n_feats,n_feats,with_idt=True,deploy=deploy)
+        self.conv1 = conv(n_feats)#nn.Conv2d(n_feats, n_feats, 1, 1, 0) 
         self.conv2 = EDBB_deploy(n_feats,n_feats)
         self.conv3 = EDBB_deploy(n_feats,n_feats)
 

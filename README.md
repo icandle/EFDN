@@ -1,5 +1,7 @@
 # EFDN 
-### Edge-enhanced Feature Distillation Network for Efficient Super-Resolution
+### Edge-enhanced Feature Distillation Network for Efficient Super-Resolution 
+
+Paper is avaliable [here](https://arxiv.org/abs/2204.08759).
 
 Run test_demo.py to reproduce results in ESR Challenge on [NTIRE 2022 Workshop and Challenge](https://data.vision.ee.ethz.ch/cvl/ntire22/).
 

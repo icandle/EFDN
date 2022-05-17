@@ -170,7 +170,7 @@ class EDBB(nn.Module):
         self.gv = gv          
 
         if depth_multiplier is None:
-            self.depth_multiplier = inp_planes
+            self.depth_multiplier = 1.0
         else: 
             self.depth_multiplier = depth_multiplier   # For mobilenet, it is better to have 2X internal channels
         

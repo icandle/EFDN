@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/license-Apache--2.0-%23B7A800" /></a> 
 </p>
 
+---
+
 Run test_demo.py to reproduce results in ESR Challenge on [NTIRE 2022 Workshop and Challenge](https://data.vision.ee.ethz.ch/cvl/ntire22/).
 
 The code of EDBB is based on [ECBSR](https://github.com/xindongzhang/ECBSR) and [DBB](https://github.com/DingXiaoH/DiverseBranchBlock),

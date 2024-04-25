@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/license-Apache--2.0-%23B7A800" /></a> 
 </p>
 
-We conclude block devising, architecture searching, and loss design to obtain a more efficient SR structure. In this paper, we proposed an edge-enhanced feature distillation network, named EFDN, to preserve the high-frequency information under constrained resources. 
+**Overview:** We conclude block devising, architecture searching, and loss design to obtain a more efficient SR structure. In this paper, we proposed an edge-enhanced feature distillation network, named ***EFDN***, to preserve high-frequency information under constrained resources. 
 
 ---
 

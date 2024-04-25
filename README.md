@@ -14,7 +14,11 @@
     <img src="https://img.shields.io/badge/arXiv-2204.08759-b31b1b.svg?style=flat" /></a>
 <a href="https://github.com/icandle/EFDN/blob/main/LICENSE" alt="license">
     <img src="https://img.shields.io/badge/license-Apache--2.0-%23B7A800" /></a> 
+<a href="[https://github.com/icandle/EFDN/blob/main/LICENSE](https://data.vision.ee.ethz.ch/cvl/ntire22/posters/Wang_Edge_074-poster-Edge-enhanced%20Feature%20Distillation%20Network%20for%20Efficient%20Super-Resolution.pdf)" alt="Poster">
+    <img src="https://img.shields.io/badge/poster-NTIRE 2022-brightgreen" /></a> 
 </p>
+
+
 
 **Overview:** We conclude block devising, architecture searching, and loss design to obtain a more efficient SR structure. In this paper, we proposed an edge-enhanced feature distillation network, named ***EFDN***, to preserve high-frequency information under constrained resources. 
 

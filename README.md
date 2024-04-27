@@ -22,6 +22,8 @@
 
 **Overview:** We conclude block devising, architecture searching, and loss design to obtain a more efficient SR structure. In this paper, we proposed an edge-enhanced feature distillation network, named ***EFDN***, to preserve high-frequency information under constrained resources. 
 
+This repository contains [PyTorch](https://pytorch.org/) implementation for ***EFDN*** (CVPRW 2022).
+
 ---
 
 Run test_demo.py to reproduce results in ESR Challenge on [NTIRE 2022 Workshop and Challenge](https://data.vision.ee.ethz.ch/cvl/ntire22/).

@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wang_Edge-Enhanced_Feature_Distillation_Network_for_Efficient_Super-Resolution_CVPRW_2022_paper.html" alt="CvF">
-    <img src="https://img.shields.io/badge/CvF-NTIRE 2022-367DBD" /></a> 
+    <img src="https://img.shields.io/badge/CVF-NTIRE 2022-367DBD" /></a> 
 <a href="https://arxiv.org/abs/2204.08759" alt="arXiv">
     <img src="https://img.shields.io/badge/arXiv-2204.08759-b31b1b.svg?style=flat" /></a>
 <a href="https://github.com/icandle/EFDN/blob/main/LICENSE" alt="license">
